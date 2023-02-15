@@ -15,7 +15,7 @@ const sumAll = function(firstInt, lastInt) {
         
         sumUp += i;
     }
-    console.log("sumUp:", sumUp);
+    
     return sumUp;
 };
 
